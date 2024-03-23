@@ -6,6 +6,6 @@ public class GolHatch implements HatchCar {
 
     @Override
     public void showHatchInformation() {
-        JOptionPane.showMessageDialog(null, "Você criou um Gol.");
+        JOptionPane.showMessageDialog(null, "Você criou um Gol que é do tipo Hatch.");
     }
 }

@@ -6,6 +6,6 @@ public class VoyageSedan implements SedanCar{
 
 	@Override
 	public void showSedanInformation() {
-		JOptionPane.showMessageDialog(null, "Você criou um Voyage.");
+		JOptionPane.showMessageDialog(null, "Você criou um Voyage que é do tipo Sedan.");
 	}
 }

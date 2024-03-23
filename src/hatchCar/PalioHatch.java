@@ -6,6 +6,6 @@ public class PalioHatch implements HatchCar {
 
     @Override
     public void showHatchInformation() {
-    	JOptionPane.showMessageDialog(null, "Você criou um Palio.");
+    	JOptionPane.showMessageDialog(null, "Você criou um Palio que é do tipo Hatch.");
     }
 }
